@@ -25,11 +25,11 @@ SPDX-License-Identifier: CC-BY-4.0
 >- do genders matter? is there a neutral?
 >- are there grammatical cases, like in German (nominative, dative etc.)? what is the default case?
 
-- French
-- fr
-- FR
-- yes, M or F; no neutral
-- no cases
+- Croatian
+- hr
+- HR
+- yes, M, F, or neutral/neuter
+- yes, 7; starting from the default: nominative, genitive, dative, accusative, vocative, locative, instrumental
 
 
 ## Words
