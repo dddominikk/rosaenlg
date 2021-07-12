@@ -2,9 +2,7 @@
 Copyright 2020 Ludan Stoecklé
 SPDX-License-Identifier: CC-BY-4.0
 -->
-# Adding a new language - Specification
-
-**as a non developer, but speaker of the target language:**
+# Adding a new language specification (Croatian)
 
 - complete the following document: example is for French (and non exhaustive)
 - always refer to reference articles written in English
@@ -25,23 +23,50 @@ SPDX-License-Identifier: CC-BY-4.0
 >- do genders matter? is there a neutral?
 >- are there grammatical cases, like in German (nominative, dative etc.)? what is the default case?
 
-- Croatian
-- hr
-- HR
+- ISO 639-1 name: Croatian
+- ISO 639-1 code: hr
+- ISO 3166-1 alpha-2 country code of the main locutors: HR
 - yes, M, F, or neutral/neuter
-- yes, 7; starting from the default: nominative, genitive, dative, accusative, vocative, locative, instrumental
+- yes, **seven**; starting from the default: nominative, genitive, dative, accusative, vocative, locative, instrumental
 
 
 ## Words
 
->- do words inflect (i.e. do they change depending on how their are used: gender, number etc.)?
 >- do words have a gender? if so, how to get the gender?
 >- what makes them inflect?
 >- what are the properties of a word?
->- which numbers are considered as plural? e.g. in English, 0 and 0.5 are plural
+>-   s are considered as plural? e.g. in English, 0 and 0.5 are plural
 
-- words inflect
-- yes, M or F; use a dictionnary
+- one small pro: Croatian has no articles of any kind, despite the three genders in use
+- words inflect - M,F,or N - dictionary seems to be the most painless option?
+- plurals rarely contract, happens almost exclusively with foreign inserts like DVD-ovi - DVD-i
+-         a dictionary of those probably doesn't exist but I've been scraping the language for months now, so should have enough material to start with
+-
+- pluralized words can be M,N,or F, same as singular
+- pluralization is heavily dependant on the context - case
+- e.g. for the Croatian equivalent of garçon:
+- N: dječak => dječaci
+- G: dječaka => dječaka (the singular and plural genitive form are the same here, happens often with M)
+- D: dječaku => dječacima
+- A: dječaka => dječake
+- V: dječače => dječaci (I still can't wrap my head around vocative, 30 years in; it's for exclamations basically, but is kind of falling out of use in standard speech)
+- L: dječaku => dječacima
+- I: dječakom => dječacima
+
+- decimal numbers are plural
+- Integers are all singular, come to think of it
+- [collective plurals](https://www.grammar-monster.com/glossary/collective_nouns.htm) are a thing, occasionally even for numbers - scraping a dictionary seems like the safest choice here as well, I'll be trying to fill it out from memory anyway
+
+## Adjectives
+
+
+
+
+
+
+
+
+
 - plural: plural of the word, gender (M or F), contracts (yes or no, default is no)
 - bureau:
   - plural: bureaux
