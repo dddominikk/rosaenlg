@@ -40,7 +40,7 @@ SPDX-License-Identifier: CC-BY-4.0
 - one small pro: Croatian has no articles of any kind, despite the three genders in use
 - words inflect - M,F,or N - dictionary seems to be the most painless option?
 - plurals rarely contract, happens almost exclusively with foreign inserts like DVD-ovi - DVD-i
--         a dictionary of those probably doesn't exist but I've been scraping the language for months now, so should have enough material to start with
+- a dictionary of those probably doesn't exist but I've been scraping the language for months now, so should have enough material to start with
 -
 - pluralized words can be M,N,or F, same as singular
 - pluralization is heavily dependant on the context - case
