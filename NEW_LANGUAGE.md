@@ -41,7 +41,7 @@ SPDX-License-Identifier: CC-BY-4.0
 - words inflect - M,F,or N - dictionary seems to be the most painless option?
 - plurals rarely contract, happens almost exclusively with foreign inserts like DVD-ovi - DVD-i
 - a dictionary of those probably doesn't exist but I've been scraping the language for months now, so should have enough material to start with
--
+
 - pluralized words can be M,N,or F, same as singular
 - pluralization is heavily dependant on the context - case
 - e.g. for the Croatian equivalent of garçon:
@@ -284,6 +284,23 @@ SPDX-License-Identifier: CC-BY-4.0
 ### Tokenizer
 
 >- how can a sentence be split into separate words?
+
+## complete Alphabet
+### Majuscule/uppercase forms (capital letters)
+| A | B | C | Č | Ć | D | Dž | Đ | E | F | G | H | I | J | K | L | Lj | M | N | Nj | O | P | R | S | Š | T | U | V | Z | Ž |
+### Minuscule/lowercase/lowercaps:
+| a | b | c | č | ć | d | dž | đ | e | f | g | h | i | j | k | l | lj | m | n | nj | o | p | r | s | š | t | u | v | z | ž |
+#### IPA values:
+| | / a / | / b / | / t͡s / (/ s /) | / t͡ʃ / (/ t͡ʂ /) |
+| / t͡ɕ /| / d / | / d͡ʒ / (/ d͡ʐ /) | / d͡ʑ / | / e / |/ f / |
+| / ɡ / || / x / | / i / | / j / |/ k / | / l / (/ ɫ /)|
+| / ʎ / | / m / | / n / | / ɲ / | / o / |/ p / |/ r / |
+| / s / | / ʃ / (/ ʂ /) | / t / | / u / | / v / | / z / |/ ʒ / (/ ʐ /) || |
+
+
+
+
+
 
 - space and punctuation (,.!?;:' etc.) are the separators
 - use a standard tokenizer to extract words
