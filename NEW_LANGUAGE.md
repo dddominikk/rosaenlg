@@ -16,7 +16,6 @@ SPDX-License-Identifier: CC-BY-4.0
 
 ## General
 
->- do genders matter? is there a neutral?
 >- are there grammatical cases, like in German (nominative, dative etc.)? what is the default case?
 
 - ISO 639-1 name: Croatian
@@ -24,7 +23,22 @@ SPDX-License-Identifier: CC-BY-4.0
 - ISO 3166-1 alpha-2 country code of the main locutors: HR
 - genders matter, there is also a neutral/neuter gender on top of the masculine/feminine division
 - there are **seven** grammatical cases
-    - starting from the default: nominative, genitive, dative, accusative, vocative, locative, instrumental
+- each is associated with a couple of *interrogative pronouns* that can be used to deduce the correct form (if you're a native speaker, at least)
+    - nominative (the default case)
+        - interrogative pronoun keys: tko, što (who, what) 
+    - genitive
+        - koga, čega (who, what)
+    - dative
+        - komu, čemu (to whom, to what) 
+    - accusative
+        - koga, što (who, what)
+        - the Latin root of this case is pretty revealing regarding its mechanical usage
+        - that said, grammatical "accusation" does not necessarily imply negative connotations about the contents of what's actually being said
+            - e.g., "Jutros smo sreli *našeg bivšeg profesora* matematike."
+            - the part in the italics is in accusative ("We met (who?) *our former math professor* this morning.")
+    - vocative
+    - locative
+    - instrumental
 
 
 ## Words
