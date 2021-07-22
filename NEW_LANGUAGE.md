@@ -27,7 +27,7 @@ SPDX-License-Identifier: CC-BY-4.0
     - nominative (the default case)
         - interrogative pronoun keys: tko, što (who, what) 
     - genitive
-        - koga, čega (who, what)
+        - koga, čega (who, what) // the concept definitely doesn't translate well to English lol, but it's remarkably similar to French
     - dative
         - komu, čemu (to whom, to what) 
     - accusative
