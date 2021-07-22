@@ -4,14 +4,13 @@ SPDX-License-Identifier: CC-BY-4.0
 -->
 # Adding a new language specification (Croatian)
 
-- complete the following document: example is for French (and non exhaustive)
 - always refer to reference articles written in English
 - when mentioning a rule, always:
   - define precisely the rule and all its exceptions
   - be exhaustive: long lists are not a problem
 - always give a lot of examples which will be used for regression testing
 - create examples in `packages/rosaenlg/test/test-rosaenlg/xx_XX`
-- crate an example template that showcases the linguistic mechanisms that should be implemented (even is this example is not runnable); follow the example in `example_fr_FR.adoc`
+- create an example template that showcases the linguistic mechanisms that should be implemented (even is this example is not runnable); follow the example in `example_fr_FR.adoc`
 - create a dedicated tutorial
 
 
@@ -56,6 +55,28 @@ SPDX-License-Identifier: CC-BY-4.0
 - decimal numbers are plural
 - Integers are all singular, come to think of it
 - [collective plurals](https://www.grammar-monster.com/glossary/collective_nouns.htm) are a thing, occasionally even for numbers - scraping a dictionary seems like the safest choice here as well, I'll be trying to fill it out from memory anyway
+
+##### Nominative
+##### Genitive
+- genitive declension for masculine nouns most often comes down to attaching an *-a* suffix to them (so-called a-declension)
+    - e.g., razgovor (N) => razgovora (G)|| čovjek => čovjeka || repozitorij => repozitorija
+    - one curious phenomenon herein is that masculine nouns in genitive often have matching singular and plural forms
+    - e.g. all three declensions above result in a form that can be both singular and plural, depending on the usage context 
+
+##### Dative
+##### Acusative
+##### Vocative
+##### Locative
+##### Instrumental
+
+
+
+
+
+
+
+
+
 
 ## Adjectives
 
