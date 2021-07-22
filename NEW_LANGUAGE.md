@@ -16,17 +16,15 @@ SPDX-License-Identifier: CC-BY-4.0
 
 ## General
 
->- what is the ISO 639-1 name of the language?
->- what is the ISO 639-1 code?
->- what is the ISO 3166-1 alpha-2 country code of the main locutors?
 >- do genders matter? is there a neutral?
 >- are there grammatical cases, like in German (nominative, dative etc.)? what is the default case?
 
 - ISO 639-1 name: Croatian
 - ISO 639-1 code: hr
 - ISO 3166-1 alpha-2 country code of the main locutors: HR
-- yes, M, F, or neutral/neuter
-- yes, **seven**; starting from the default: nominative, genitive, dative, accusative, vocative, locative, instrumental
+- genders matter, there is also a neutral/neuter gender on top of the masculine/feminine division
+- there are **seven** grammatical cases
+    - starting from the default: nominative, genitive, dative, accusative, vocative, locative, instrumental
 
 
 ## Words
