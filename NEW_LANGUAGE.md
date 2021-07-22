@@ -42,7 +42,7 @@ SPDX-License-Identifier: CC-BY-4.0
 - a dictionary of those probably doesn't exist but I've been scraping the language for months now, so should have enough material to start with
 
 - pluralized words can be M,N,or F, same as singular
-- pluralization is heavily dependant on the context - case
+- pluralization is heavily dependent on the context - case
 - e.g. for the Croatian equivalent of garçon:
 - N: dječak => dječaci
 - G: dječaka => dječaka (the singular and plural genitive form are the same here, happens often with M)
