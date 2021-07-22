@@ -59,7 +59,7 @@ SPDX-License-Identifier: CC-BY-4.0
 ##### Nominative
 ##### Genitive
 - genitive declension for masculine nouns most often comes down to attaching an *-a* suffix to them (so-called a-declension)
-    - e.g., razgovor (N) => razgovora (G)|| čovjek => čovjeka || repozitorij => repozitorija
+    - e.g., razgovor (N) => razgovora (G) || čovjek => čovjeka || repozitorij => repozitorija
     - one curious phenomenon herein is that masculine nouns in genitive often have matching singular and plural forms
     - e.g. all three declensions above result in a form that can be both singular and plural, depending on the usage context 
 
