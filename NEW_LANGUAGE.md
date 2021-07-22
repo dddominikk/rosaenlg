@@ -16,8 +16,6 @@ SPDX-License-Identifier: CC-BY-4.0
 
 ## General
 
->- are there grammatical cases, like in German (nominative, dative etc.)? what is the default case?
-
 - ISO 639-1 name: Croatian
 - ISO 639-1 code: hr
 - ISO 3166-1 alpha-2 country code of the main locutors: HR
