@@ -35,8 +35,12 @@ SPDX-License-Identifier: CC-BY-4.0
             - e.g., "Jutros smo sreli *našeg bivšeg profesora* matematike."
             - the part in the italics is in accusative ("We met (who?) *our former math professor* this morning.")
     - vocative
+        - o (oi)
+        - that would be the "oi, mate, are you having a giggle"-kind-of "oi"
     - locative
+        - o kome, o čemu (about whom, what about) 
     - instrumental
+        - s kime, sa čime (with whom, with what) 
 
 
 ## Words
@@ -338,6 +342,8 @@ SPDX-License-Identifier: CC-BY-4.0
 
 
 ### Stop words
+
+Yes, Croatian definitely makes use of stop words. An up-to-date version of these lexemes has been added to the project files. I looked into existing stuff on GitHub but it was lacking in a lot of appropriated foreign words that emerged over the last decade and I'm scraping websites all the time anyway. So, I've decided to collect them myself. Especially as that allows us to avoid introduxcing more dependencies, I see the occasional complaint about those in random pull requests and really wouldn't want to be responsible for giving even more baseless whataboutism ammo to skeptics.
 
 >- do stop words exists in the language?
 >- what is the standard list of stop words?
