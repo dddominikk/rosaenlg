@@ -36,7 +36,15 @@ SPDX-License-Identifier: CC-BY-4.0
             - the part in the italics is in accusative ("We met (who?) *our former math professor* this morning.")
     - vocative
         - o (oi)
-        - that would be the "oi, mate, are you having a giggle"-kind-of "oi"
+        - exclamational case, fairly rare in modern use, the odd encounter mostly coming down to banter
+          - fittingly, it hence devolved to "that case you'll use to embellish a gest"
+          - semantically, this embellishment can be both playful and mocking
+          - given all of the above, we can definitely get away with vocative being an afterthought for now
+        - a literal exclamation mark isn't a hard rule, but exclamational sentences might still be a good (enough) starting point for parsing vocative
+        - lowest priority of all case, it would probably take weeks for for me to even recognize any missteps in its parsing - that's how rare it is
+
+        - masculine can either get the "-če" suffix, or the "-ne" one here
+          - "Gospodine"
     - locative
         - o kome, o čemu (about whom, what about) 
     - instrumental
@@ -82,7 +90,6 @@ SPDX-License-Identifier: CC-BY-4.0
 ##### Vocative
 ##### Locative
 ##### Instrumental
-
 
 
 
